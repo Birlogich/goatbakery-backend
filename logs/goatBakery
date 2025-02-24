@@ -1,0 +1,20 @@
+2025-02-24 12:48:42.196 INFO  [main] o.e.c.ServiceMain - starting services
+2025-02-24 12:48:42.203 INFO  [main] o.e.c.ServiceMain - starting API server
+2025-02-24 12:48:42.210 INFO  [main] o.e.c.ServiceMain - using port: 9090
+2025-02-24 12:48:42.502 INFO  [main] o.e.c.ServiceMain - Service startup complete
+2025-02-24 12:48:42.517 INFO  [Thread-1] o.e.j.u.log - Logging initialized @685ms
+2025-02-24 12:48:42.556 INFO  [Thread-1] s.e.j.EmbeddedJettyServer - == Spark has ignited ...
+2025-02-24 12:48:42.556 INFO  [Thread-1] s.e.j.EmbeddedJettyServer - >> Listening on 0.0.0.0:9090
+2025-02-24 12:48:42.558 INFO  [Thread-1] o.e.j.s.Server - jetty-9.3.6.v20151106
+2025-02-24 12:48:42.757 INFO  [Thread-1] o.e.j.s.ServerConnector - Started ServerConnector@7e8a125d{HTTP/1.1,[http/1.1]}{0.0.0.0:9090}
+2025-02-24 12:48:42.757 INFO  [Thread-1] o.e.j.s.Server - Started @928ms
+2025-02-24 13:01:06.939 INFO  [main] o.e.c.ServiceMain - starting services
+2025-02-24 13:01:06.941 INFO  [main] o.e.c.ServiceMain - starting API server
+2025-02-24 13:01:06.946 INFO  [main] o.e.c.ServiceMain - using port: 9090
+2025-02-24 13:01:07.150 INFO  [main] o.e.c.ServiceMain - Service startup complete
+2025-02-24 13:01:07.159 INFO  [Thread-1] o.e.j.u.log - Logging initialized @531ms
+2025-02-24 13:01:07.185 INFO  [Thread-1] s.e.j.EmbeddedJettyServer - == Spark has ignited ...
+2025-02-24 13:01:07.185 INFO  [Thread-1] s.e.j.EmbeddedJettyServer - >> Listening on 0.0.0.0:9090
+2025-02-24 13:01:07.186 INFO  [Thread-1] o.e.j.s.Server - jetty-9.3.6.v20151106
+2025-02-24 13:01:07.393 INFO  [Thread-1] o.e.j.s.ServerConnector - Started ServerConnector@7d30599a{HTTP/1.1,[http/1.1]}{0.0.0.0:9090}
+2025-02-24 13:01:07.393 INFO  [Thread-1] o.e.j.s.Server - Started @766ms
